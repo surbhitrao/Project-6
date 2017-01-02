@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#2196F3</color>
+    <color name="background_ambient">#000000</color>
+    <color name="background2">#000088</color>
+    <color name="digital_text">#ffffff</color>
+    <color name="date_text">#81D4FA</color>
+    <color name="date_text_ambient">#FFFFFF</color>
+    <color name="high_text">#FFFFFF</color>
+    <color name="high_text_ambient">#FFFFFF</color>
+    <color name="low_text">#81D4FA</color>
+    <color name="low_text_ambient">#FFFFFF</color>
+</resources>
